@@ -1,5 +1,9 @@
 #### amtemu.v0.9.2-painter-tool
 
+> adobe 激活工具，不允许watch、star、fork。（没准哪天失效了）喜欢请直接复制走
+
+> The adobe activation tool does not allow watch, star, fork. (Maybe it is invalid someday) Like to copy directly
+
 ---
 
 #### 下载
